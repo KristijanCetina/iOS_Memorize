@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>13B50AA9-B259-4F3A-81C2-A234615654D2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13B50AA9-B259-4F3A-81C2-A234615654D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memorize project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memorize</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Memorize</string>
+			<key>timeStartedRecording</key>
+			<real>612301061.90497994</real>
+			<key>timeStoppedRecording</key>
+			<real>612301303.72320402</real>
+			<key>title</key>
+			<string>Run Memorize</string>
+			<key>uniqueIdentifier</key>
+			<string>13B50AA9-B259-4F3A-81C2-A234615654D2</string>
+		</dict>
+		<key>CAACFAE0-3E10-4FD4-BFD2-865BEBC64712</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CAACFAE0-3E10-4FD4-BFD2-865BEBC64712.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memorize project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memorize</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Memorize</string>
+			<key>timeStartedRecording</key>
+			<real>612304210.37322104</real>
+			<key>timeStoppedRecording</key>
+			<real>612304289.57625306</real>
+			<key>title</key>
+			<string>Run Memorize</string>
+			<key>uniqueIdentifier</key>
+			<string>CAACFAE0-3E10-4FD4-BFD2-865BEBC64712</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
